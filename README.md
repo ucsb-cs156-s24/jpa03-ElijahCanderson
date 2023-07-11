@@ -81,6 +81,7 @@ cd into frontend and type: npm install; npm start";
 # Getting Started on Dokku
 
 * Follow the steps here: <https://ucsb-cs156.github.io/topics/dokku/getting_started.html>
+* NEW: Set up SSL (https) for your dokku app, documented here: <https://ucsb-cs156.github.io/topics/dokku/enabling_https.html>
 * Set up Google OAuth as documented in [`docs/oauth.md`](docs/oauth.md) 
 * Set up Postgres, as documented in  <https://ucsb-cs156.github.io/topics/dokku/postgres_database.html>
 * Set the config variable `PRODUCTION=true`
