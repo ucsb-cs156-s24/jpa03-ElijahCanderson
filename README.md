@@ -1,6 +1,6 @@
 # STARTER-jpa03
 
-Running at: <https://elijahcanderson-jpa03.dokku-12.cs.ucsb.edu>
+Running at: <[https://elijahcanderson-jpa03.dokku-12.cs.ucsb.edu](https://jpa03-elijahcanderson.dokku-12.cs.ucsb.edu/)>
 
 # Configuring GitHub Pages for the documentation
 
